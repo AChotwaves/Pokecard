@@ -1,0 +1,51 @@
+#card{
+				padding: 20px;
+				width: 400px;
+				height: 525px;
+				border-radius: 15px;
+				background-color: #00bfff;
+				border-radius: 15px;
+				border: 10px solid yellow;
+			}
+			
+		
+			#top{
+				width: 100%;
+				font-size: 25px;
+			}
+			
+			.box{
+				width: 200px;
+				height: 200px;
+				
+			}
+		
+		
+			#pic{
+				width:200px;
+				height:250px;
+				border: 5px solid silver;
+			}
+
+			
+			
+					
+			
+		#text{
+			margin-left: 16%;
+			width:85%;
+			background-color: #b0e0e6;
+		}
+
+		#top-hp {
+			margin-left: 180px;
+		}
+		
+		.icon{
+			height:40x;
+			width: 40px;
+		}
+		
+		#pic{
+			width:100%
+		}
